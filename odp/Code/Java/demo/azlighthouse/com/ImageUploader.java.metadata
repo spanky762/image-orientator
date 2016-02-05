@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="85257F4F0054DEE8" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="16e" sequence="5" unid="037DBC4076AAD59E85257F50004E1DE0">
+<created><datetime>20160205T091314,56-05</datetime></created>
+<modified><datetime>20160205T091340,82-05</datetime></modified>
+<revised><datetime>20160205T091340,81-05</datetime></revised>
+<lastaccessed><datetime>20160205T091340,82-05</datetime></lastaccessed>
+<addedtofile><datetime>20160205T091314,57-05</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Devin Olson/O=azlighthouse</name></updatedby>
+<wassignedby><name>CN=Devin Olson/O=azlighthouse</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>demo/azlighthouse/com/ImageUploader.java</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>demo/azlighthouse/com/ImageUploader.java</text></item></note>

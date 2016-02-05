@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
  maintenanceversion='1.4' replicaid='85257F4F0054DEE8'>
-<noteinfo noteid='11a' unid='579DA08C76E88CF485257F4F0054DEEB' sequence='3'>
+<noteinfo noteid='11a' unid='579DA08C76E88CF485257F4F0054DEEB' sequence='8'>
 <created><datetime>20160204T102700,91-05</datetime></created>
-<modified><datetime>20160204T102700,98-05</datetime></modified>
-<revised><datetime>20160204T102700,97-05</datetime></revised>
-<lastaccessed><datetime>20160204T102700,98-05</datetime></lastaccessed>
+<modified><datetime>20160205T090653,25-05</datetime></modified>
+<revised><datetime>20160205T090653,24-05</datetime></revised>
+<lastaccessed><datetime>20160205T090653,25-05</datetime></lastaccessed>
 <addedtofile><datetime>20160204T102700,94-05</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Devin Olson/O=azlighthouse</name></updatedby>
+<wassignedby><name>CN=Devin Olson/O=azlighthouse</name></wassignedby>
 <item name='IconBitmap' summary='true'>
 <rawitemdata type='6'>
 AiAgAQAA///////wD///4Af//8AD//4AAH/8AAA/+AAAH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAA
@@ -24,6 +25,7 @@ EREdd3fRERER8AAAAAAA////Ed3dEf///wAAAAAAAAAAAPERER8AAAAAAAAAAAAAAAAP///wAAAA
 AAAAUEECICABAAD/////+A4DgA==
 </rawitemdata></item>
 <item name='$Daos'><text>0</text></item>
+<item name='$TITLE'><text>Image Orientator</text></item>
 <item name='$Flags'><text>J</text></item>
-<item name='$TITLE'><text>Image Orientator</text></item></note>
+<item name='$FlagsNoRefresh'><text>rv</text></item></note>
 
