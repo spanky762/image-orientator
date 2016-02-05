@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.4" replicaid="85257F4F0054DEE8" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="16a" sequence="4" unid="5B5C64F8E0DB9D8985257F50004E122A">
+<created><datetime>20160205T091244,58-05</datetime></created>
+<modified><datetime>20160205T091358,97-05</datetime></modified>
+<revised><datetime>20160205T091358,96-05</datetime></revised>
+<lastaccessed><datetime>20160205T091358,97-05</datetime></lastaccessed>
+<addedtofile><datetime>20160205T091244,59-05</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Devin Olson/O=azlighthouse</name></updatedby>
+<wassignedby><name>CN=Devin Olson/O=azlighthouse</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>demo/azlighthouse/com/Image.java</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>demo/azlighthouse/com/Image.java</text></item></note>
